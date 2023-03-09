@@ -1,2 +1,193 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"><meta name="viewport" content="with=device-width, initial-scale=1.0">
+	<title>UX Roles</title>
+
+<style>
+    body {
+        background-color:powderblue;
+    } 
+    
+    h1 {
+        color:blue;
+        text-align: center;
+    }
+
+    h2 {
+        color:blue;
+        font-size: 18px;
+    }
+    h3 {
+        color:rgb(68, 8, 8);
+        font-size: 18px;
+    }
+    
+    h4 {
+        color:black;
+       font-size: 15px;
+    }
+    h5 {
+        color:black;
+        font-size: 17px;
+        font-family: italic;
+    }
+    p {
+        text-indent: 30px;
+        font-size: 12px;
+        letter-spacing: 2px;
+        font-family: verdana;
+    }
+    
+    strong {
+        font-size: 12px;
+        letter-spacing: 2px;
+        font-family: verdana;
+    }
+        
+    ul {
+        letter-spacing: 2px;
+		font-size: 12px;
+        font-family: verdana;
+    }    
+</style>
+</head>
+<body>
+<h1>UX roles
+</h1>
+    <hr>
+    <b><i>Your constantly-updated definition of UX Roles and collection of topical content and literature </i></b>
+
+<h2><b>What are UX Roles?</b></h2>
+  
+<p>UX roles describe the various parts designers play in the design process. They range from generalist roles—e.g., UX designers and product designers—to specialist ones such as visual designers and UX researchers. UX roles might overlap in scope, and they keep evolving with our understanding of the ideal design process.</p>
+<p>
+<i><b>“Successful design projects require effective collaboration and healthy conflict.”</b> </i>
+
+</p>
+<p>
+<i>—Dan M. Brown, Author, co-founder and principal of EightShapes </i>
+</p>
+
+<strong>UX Roles Serve the Design Process </strong>
+<p>One major part of what a design team does is to follow a user centered design process and work through it to produce the best possible designs for the target users. Team-mates perform many tasks throughout projects—from user research[TTV3] , to prototyping, to conducting usability testing—to iterate towards optimal solutions. Design thinking showcases the key UX tasks corresponding to these roles. It also reflects how each role contributes slightly differently regarding tasks.</p>
+<h2><b><i>Main roles are:</i></b></h2>
+<h3>1. UX designers (akaInteraction/UI/Experience designers)</h3>
+<p>– Generalists working on all design thinking phases.</p> 
+<h3>Tasks: </h3>
+<ul>
+<li> Conduct UX research</li>
+<li>Find users’ pain points</li>
+<li>Generate ideas through, e.g., worst possible idea</li>
+<li>Choose the best ideas</li>
+<li> Offer/accept critique on possible solutions</li>
+<li> Prototype</li>
+<li> Conduct usability testing</li>
+<li>Release the most beneficial design</li>
+</ul>
+
+<h3>Typical Deliverables: </h3>
+<ul>
+<li> User personas</li>
+<li>Customer journey maps</li>
+<li> Problem statements</li>
+<li> Paper prototypes</li>
+<li> Wireframes</li>
+<li>High-fidelity, pixel-perfect mock-ups</li>
+<li>Reports: usability, user research, heuristic evaluation and user testing</li>
+<li>Design pattern libraries, style guides or design systems</li>
+</ul>
+
+<h2>2.Product designers</h2><p>– Like UX designers, but focusing especially on product design and the UX. They help create product designs, goals and roadmaps (high-level summaries/6–12-month forecasts of product offerings and features). </p>
+<h3>Tasks: </h3>
+<ul>
+<li>(Same as UX designers’)</li>
+<li>Inform and plan roadmaps</li>
+<li>Collaborate closely with development and marketing teams to ensure designs can be implemented properly</li>
+</ul>
+<h3>Typical Deliverables: </h3>
+<ul>
+<li>(Same as UX designers’)</li>
+<li>Product roadmaps (probably co-developing these alongside other stakeholders)</li>
+</ul>
+
+<h2>
+3. Visual designers </h2>
+<p>– Specialists with graphic design/visual design backgrounds focusing on making pixel-perfect prototypes later in the design process. 
+</p>
+<h3>Tasks: </h3>
+<ul>
+<li>Convert UX goals into attractive design sets (e.g., app screens) with high usability and accessibility</li>
+<li>Create and/or maintain libraries of product icons, colors and fonts</li>
+<li>Apply branding guidelines</li>
+<li>Utilize design concepts (e.g., Gestalt principles) to make pleasing graphical user interfaces (GUIs)</li>
+</ul>
+
+<h3>
+Typical Deliverables: </h3>
+<ul>
+<li>Prototypes: pixel-perfect and interactive</li>
+<li>Visual style guides</li>
+<li>Icon libraries</li>
+<li>Design specifications for frontend developers to produce needed live code</li>
+<li>Branding materials or guidelines supplementing each product</li>
+</ul>
+
+<h2>
+4. User/UX researchers </h2>
+<p>– Researchers interested in human psychology, focusing on understanding and advocating for users. </p>
+<h3>Tasks:</h3>
+<ul>
+<li>Understand users deeply through qualitative research</li>
+<li>Develop realistic understandings of specific user traits through quantitative research</li>
+<li>Analyze gathered user data to synthesize key findings and make design proposals</li>
+<li>Advocate to other internal stakeholders for users’ needs and perspectives</li>
+<li>Help inform product goals by presenting research findings to relevant internal stakeholders</li>
+<li>Test and improve designs using evaluative research – e.g., usability testing</li>
+</ul>
+<h3>Typical Deliverables: </h3>
+<ul>
+<li>User personas</li>
+<li>User stories</li>
+<li>Customer journey maps</li>
+<li>“How might we” statements</li>
+<li>Reports: <p>user research, usability, heuristic evaluation and user testing </p></li>
+</ul>
+
+<h2>
+5. Content strategists </h2><p>– Skilled in copywriting to create persuasive, clear, consistent copy (during prototyping) to appear directly on products. 
+</p>
+<h3>Tasks: </h3>
+<ul>
+<li>Write copy so users can navigate, use and troubleshoot user-interface products easily</li>
+<li>Create effective page titles and navigation menu item names so users can intuitively access desired pages/screens</li>
+<li>Write simple, effective and blame-free error messages to assure users</li>
+<li>Craft effective emails and newsletters to achieve product goals</li>
+<li>Weave cohesive narratives throughout products to express a consistent tone of voice and direction for users</li>
+<li>Define and maintain a vision for each product’s language for across-the-board application</li>
+</ul>
+<h3>Typical Deliverables: </h3>
+<ul>
+<li>Copy (incorporated into products)</li>
+<li>Editorial/product language guidelines, setting each product’s tone and content style</li>
+</ul>
+<h2>
+6. UX unicorns (aka UX engineers) </h2>
+<p>– A rare breed handling UX design and frontend development. </p>
+<h3>Tasks: </h3>
+<ul>
+<li>(Same as UX designers’)</li>
+<li> Develop live frontend prototypes for realistic usability testing</li>
+<li>Implement frontend code</li>
+</ul>
+<h3>Typical Deliverables: </h3>
+<ul>
+<li>(Same as UX designers’)</li> 
+<li>Frontend prototypes</li> 
+<li> Ready-for-launch frontend code</li> 
+</ul>
+<h2>Organizations’ definitions of UX roles vary.</h2>
+<p>While these shouldn’t deviate drastically from those listed above, you should research a brand’s culture to understand its expectations. For instance, recruiters scanning UX portfolios may want a “UX designer” to handle all UX-related tasks. Applicants would then address that in their UX cover letters and UX resumes. Also, with the industry’s dynamic nature, expect to constantly find new job titles, job descriptions and UX tools. Nonetheless, your knowledge remains timeless – you just must adapt to whatever hat your company wants you to wear. 
+</p>
+</body>
+</html>
